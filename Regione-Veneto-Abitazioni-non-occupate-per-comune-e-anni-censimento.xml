@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AbitazioniNonOccupate>
+    <Abitazione>
+        <Anno>1971</Anno>
+        <Comune>Affi</Comune>
+        <Provincia>Verona</Provincia>
+        <Numero_alloggi>39</Numero_alloggi>
+    </Abitazione>
+
+    <Abitazione>
+        <Anno>1971</Anno>
+        <Comune>ALBAREDO D'ADIGE</Comune>
+        <Provincia>Verona</Provincia>
+        <Numero_alloggi>221</Numero_alloggi>
+    </Abitazione>
+
+    <Abitazione>
+        <Anno>1971</Anno>
+        <Comune>ANGIARI</Comune>
+        <Provincia>Verona</Provincia>
+        <Numero_alloggi>67</Numero_alloggi>
+    </Abitazione>
+
+    <Abitazione>
+        <Anno>1971</Anno>
+        <Comune>ARCOLE</Comune>
+        <Provincia>Verona</Provincia>
+        <Numero_alloggi>53</Numero_alloggi>
+    </Abitazione>
+</AbitazioniNonOccupate>
