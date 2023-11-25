@@ -1,7 +1,9 @@
 <!ELEMENT AbitazioniNonOccupate (Abitazione*)>
 <!ELEMENT Abitazione (Anno, Comune, Provincia, Numero_alloggi)>
-<!ELEMENT Comune (#PCDATA)>
 <!ELEMENT Anno (#PCDATA)>
+<!ELEMENT Comune (Classe)>
+<!ELEMENT Classe (#PCDATA)>
+<!ATTLIST Classe Nome CDATA "SI">
 <!ELEMENT Provincia (#PCDATA)>
 <!ELEMENT Numero_alloggi (#PCDATA)>
 <!ATTLIST Abitazione>

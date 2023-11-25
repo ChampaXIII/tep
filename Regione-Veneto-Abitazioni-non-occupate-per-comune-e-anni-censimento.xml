@@ -3,28 +3,36 @@
 <AbitazioniNonOccupate>
     <Abitazione>
         <Anno>1971</Anno>
-        <Comune>Affi</Comune>
+        <Comune>
+            <Classe Nome = "si">Affi</Classe>
+        </Comune>
         <Provincia>Verona</Provincia>
         <Numero_alloggi>39</Numero_alloggi>
     </Abitazione>
 
     <Abitazione>
         <Anno>1971</Anno>
-        <Comune>ALBAREDO D'ADIGE</Comune>
+        <Comune>
+            <Classe Nome = "si">ALBAREDO D'ADIGE</Classe>
+            </Comune>
         <Provincia>Verona</Provincia>
         <Numero_alloggi>221</Numero_alloggi>
     </Abitazione>
 
     <Abitazione>
         <Anno>1971</Anno>
-        <Comune>ANGIARI</Comune>
+        <Comune>
+            <Classe Nome = "si">ANGIARI</Classe>
+        </Comune>
         <Provincia>Verona</Provincia>
         <Numero_alloggi>67</Numero_alloggi>
     </Abitazione>
 
     <Abitazione>
         <Anno>1971</Anno>
-        <Comune>ARCOLE</Comune>
+        <Comune>
+            <Classe Nome = "si">ARCOLE</Classe>
+        </Comune>
         <Provincia>Verona</Provincia>
         <Numero_alloggi>53</Numero_alloggi>
     </Abitazione>
